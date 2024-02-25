@@ -32,7 +32,7 @@
       <br>
       <img alt="skills" src="https://skillicons.dev/icons?i=nextjs,react,flask,mysql,mongodb" />
       <br>
-      <img alt="frameworks" src="https://skillicons.dev/icons?i=c,java,ts,javascript,python,html,css" />
+      <img alt="frameworks" src="https://skillicons.dev/icons?i=c,ts,javascript,python,html,css" />
   </a>
 
 </div>
