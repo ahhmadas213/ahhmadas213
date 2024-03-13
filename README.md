@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Hi%2C+There%E2%9C%8B!;I'm+Ahmed+Bakur" alt="Typing SVG" />
 </h1>
 <h2>I'm Ahmed Bakur</h2>
-<h3 >A passionate software developer</h3>
+<h3 >A passionate software engineer </h3>
 <br>
 
 <div >
